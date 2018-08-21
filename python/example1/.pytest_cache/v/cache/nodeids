@@ -1,0 +1,8 @@
+[
+  "sum.py::test_sum_positive_ShouldReturnResult",
+  "sum.py::test_sum_positive_ShouldReturnResult1",
+  "sum.py::test_sum_positive_ShouldReturnResult2",
+  "sum.py::test_sum_positive_ShouldReturnResult_wrong",
+  "sum.py::test_sum_positive_ShouldThrowException_WhenNegativeArguments",
+  "sum.py::test_sum_positive_ShouldThrowException_WhenNegativeArguments1"
+]

@@ -1,0 +1,4 @@
+[
+  "test_vector2.py::test_add_ShouldReturnResult",
+  "test_vector2.py::test_sub_ShouldReturnResult"
+]
